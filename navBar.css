@@ -1,0 +1,32 @@
+#navBar {
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 30px;
+    display: block;
+    border-bottom-width: 10px;
+    border-bottom-color: gray;
+    position: sticky;
+}
+
+.nav-title {
+    font-size: 2em;
+    color: rgb(30, 238, 75);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-item {
+    font-size: 2em;
+    padding-left: 2em;
+    float: right;
+}
+
+#nav-button {
+    padding: 10px 10px;
+    border: 2 px;
+    height: 40px;
+    width: 100 px;
+    float: right;
+}
