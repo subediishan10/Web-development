@@ -1,0 +1,29 @@
+body {
+    background-image: url("./hacker.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#flex {
+    color: rgb(199, 59, 59);
+    padding: 30px;
+    display: block;
+}
+
+#search {
+    color: yellow;
+    border: 1px solid red;
+}
+
+h1,
+h2 {
+    color: rgb(255, 20, 20)
+}
+
+#done {
+    display: flex;
+}
+
+.there {
+    color: white;
+}

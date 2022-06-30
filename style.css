@@ -1,8 +1,5 @@
-    #ishan {
-        background-color: aqua;
-    }
-    
     .sub {
+        color: red;
         font-size: 20px;
         font-weight: 600;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -11,24 +8,28 @@
     }
     
     .sin {
-        margin-right: 100px;
-        margin-top: 10px;
-        padding: 10px;
-        border-radius: 30px;
-        border-top: 10px;
-        border-width: 0cm;
-        border-top-style: dotted;
-        text-align: center;
-        border-style: dashed;
-        background-color: blue;
-        font-family: Arial, Helvetica, sans-serif;
-        padding: 30px;
-        position: sticky;
+        float: left;
     }
     
     #btn {
         margin: 0 auto;
         text-align: center;
-        padding: 50px;
-        box-shadow: 0ch;
+    }
+    
+    .ish {
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(168, 168, 196);
+        background-image: url("./hacker.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    #hy,
+    strong {
+        color: red;
+    }
+    
+    .the {
+        background-color: black;
+        text-align: center;
     }
